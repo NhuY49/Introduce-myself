@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm Trần Như Ý!</h1>
 
 <p align="center">
-  🚀 BackEnd Developer | 💻 Passionate about Web & AI | 🌍 Open Source Contributor
+  🚀 BackEnd Developer 
 </p>
 
 <p align="center">
