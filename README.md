@@ -29,6 +29,6 @@
 ---
 
 ## 📬 Get in Touch  
-📧 Email: your.email@example.com  
+📧 Email: trannhuy095@gmail.com  
 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/nh%C6%B0-%C3%BD-tr%E1%BA%A7n-10772034a/)             
 📞 Phone : 0357629176
