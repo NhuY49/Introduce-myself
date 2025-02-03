@@ -30,5 +30,5 @@
 
 ## 📬 Get in Touch  
 📧 Email: your.email@example.com  
-💼 LinkedIn: [https://www.linkedin.com/in/nh%C6%B0-%C3%BD-tr%E1%BA%A7n-10772034a/]
+💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/nh%C6%B0-%C3%BD-tr%E1%BA%A7n-10772034a/) 
 📞 Phone : 0357629176
