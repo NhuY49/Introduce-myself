@@ -1,15 +1,14 @@
 # Introduce-myself
-<h1 align="center">👋 Hi, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hi, I'm Trần Như Ý!</h1>
 
 <p align="center">
   🚀 Fullstack Developer | 💻 Passionate about Web & AI | 🌍 Open Source Contributor
 </p>
 
 <p align="center">
-  <a href="https://yourportfolio.com">🌐 Portfolio</a> |
-  <a href="https://linkedin.com/in/yourprofile">🔗 LinkedIn</a> |
-  <a href="https://github.com/yourusername">🐙 GitHub</a> |
-  <a href="mailto:your.email@example.com">📧 Contact</a>
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nh%C6%B0-%C3%BD-tr%E1%BA%A7n-10772034a/)">🔗 LinkedIn</a> |
+  <a href="[https://github.com/yourusername](https://github.com/NhuY49)">🐙 GitHub</a> |
+  <a href="trannhuy@gmail.com">📧 Contact</a>
 </p>
 
 ---
