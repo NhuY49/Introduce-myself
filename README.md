@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **Student at **FPT University**, majoring in Software Engineering.  
+- 🎓 Student at **FPT University**, majoring in Software Engineering.  
 - 💡 Passionate about **Web Development, AI, and Open Source**.  
 - 🔭 Currently working on **a Fullstack E-commerce App**.  
 - 🌱 Learning **TypeScript, Docker, and Next.js**.  
