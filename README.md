@@ -30,6 +30,7 @@
 
 ## 📬 Get in Touch  
 📧 Email: trannhuy095@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/nh%C6%B0-%C3%BD-tr%E1%BA%A7n-10772034a/)             
+💼 [LinkedIn](https://www.linkedin.com/in/nh%C6%B0-%C3%BD-tr%E1%BA%A7n-10772034a/)       
+🌍 [Facebook](https://www.facebook.com/trannhuy49) 
 📞 Phone : 0357629176  
-🌍 [Facebook](https://www.facebook.com/trannhuy49)
+
