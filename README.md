@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nh%C6%B0-%C3%BD-tr%E1%BA%A7n-10772034a/)">🔗 LinkedIn</a> |
-  <a href="[https://github.com/yourusername](https://github.com/NhuY49)">🐙 GitHub</a> |
+  <a href="https://www.linkedin.com/in/nh%C6%B0-%C3%BD-tr%E1%BA%A7n-10772034a/">🔗 LinkedIn</a> |
+  <a href="https://github.com/NhuY49">🐙 GitHub</a> |
   <a href="trannhuy@gmail.com">📧 Contact</a>
 </p>
 
