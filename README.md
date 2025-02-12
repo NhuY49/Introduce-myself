@@ -22,8 +22,8 @@
 ---
 
 ## 📂 Featured Projects  
-### 🌟 [E-commerce Website]
-> 🛍 **Tech Stack**: React, Node.js, MongoDB, Stripe API  
+### 🌟 [Phone Shop]
+> 🛍 **Tech Stack**: React, Java, mySQL
 > 🚀 **Features**: User Authentication, Payment Integration, Admin Dashboard  
 
 ---
