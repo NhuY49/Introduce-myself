@@ -1,5 +1,5 @@
 # Introduce-myself
-<h1 align="center">👋 Hi, I'm Trần Như Ý!</h1>
+<h1 align="center">👋 Hi, I'm Tran Nhu Y!</h1>
 
 <p align="center">
   🚀 BackEnd Developer 
